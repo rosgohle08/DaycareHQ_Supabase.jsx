@@ -1,0 +1,1 @@
+# DaycareHQ_Supabase.jsx
